@@ -1,0 +1,11 @@
+Package: jagsplot
+Type: Package
+Title: Diagnostic plotting tools for R2jags output
+Version: 0.1
+Date: 2015-06-03
+Author: Matt Tyers
+Maintainer: Matt Tyers <matt.tyers@alaska.gov>
+Description: Simple plotting tools are provided for JAGS output.
+License: GPL-2
+Suggests: R2jags
+RoxygenNote: 5.0.1
